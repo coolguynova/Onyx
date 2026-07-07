@@ -5,7 +5,7 @@
   
   [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
   [![Discord](https://img.shields.io/discord/1234567890?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/onyx)
-  [![Twitter](https://img.shields.io/twitter/follow/OnyxNotes?style=social)](https://twitter.com/OnyxNotes)
+  [![Twitter](https://img.shields.io/twitter/follow/OnyxNotes?style=social)](https://twitter.com/OnyxNotes_official)
 </div>
 
 ---

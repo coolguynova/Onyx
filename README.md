@@ -5,7 +5,6 @@
   
   [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
   [![Discord](https://img.shields.io/discord/1234567890?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/onyx)
-  [![Twitter](https://img.shields.io/twitter/follow/OnyxNotes?style=social)](https://twitter.com/OnyxNotes_official)
 </div>
 
 ---
@@ -31,14 +30,3 @@ All your notes stay as plain Markdown files on your device. Onyx simply adds a b
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](https://github.com/onyx‑notes/onyx/releases/latest)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://github.com/onyx‑notes/onyx/releases/latest)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=com.onyxnotes.app)
-
-> iOS coming soon – join the [TestFlight](https://testflight.apple.com/join/xxx) waitlist.
-
-### Build from Source
-```bash
-# Prerequisites: Rust, Node.js 20+, pnpm
-git clone https://github.com/onyx-notes/onyx.git
-cd onyx
-pnpm install
-pnpm tauri dev     # desktop
-pnpm cap run android  # mobile (requires Android Studio)

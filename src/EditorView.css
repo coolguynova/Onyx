@@ -1,0 +1,24 @@
+.editor-container {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.editor {
+  height: 100%;
+  width: 100%;
+  background: var(--bg-primary);
+}
+
+.cm-editor {
+  height: 100%;
+}
+
+.cm-scroller {
+  overflow: auto;
+}
+
+.cm-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
